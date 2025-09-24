@@ -3,12 +3,9 @@
 **Exploring global GDP data from Kaggle/datasets using Python and Pandas.**
 
 ## Project Structure
-.
-├── notebooks/
-│   └── gdp-2020-2025-data-visualization.ipynb    
-├── data/
-│   └── raw/
-│       └── 2020-2025.csv  
+
+ notebooks/gdp-2020-2025-data-visualization.ipynb
+ data/raw/2020-2025.csv
 
 ### Dataset: https://www.kaggle.com/datasets/codebynadiia/gdp-per-country-20202025 
 
